@@ -1,0 +1,11 @@
+{
+    "carePlan":{
+       "report":"C:/Users/juppuluri/careplanreport/SDAT-CareplanReport-split-Pdf/Test_Careplan.txt",
+      "folders":{
+        "withGoals":"./withgoals/",
+        "withoutGoals":"./withoutgoals/",
+        "pdfpath":"C:\\Users\\juppuluri\\careplanreport\\SDAT-CareplanReport-split-Pdf\\withgoals\\"
+    
+      }
+    }
+}
